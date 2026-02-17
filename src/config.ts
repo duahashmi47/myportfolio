@@ -113,7 +113,7 @@ export const config = {
             title: "Formula 1 Predictions 2025",
             category: "Data Science / Sports Analytics",
             technologies: "Python, Pandas, Scikit-learn, Data Visualization, Machine Learning",
-            image: "/images/f1-prediction.jpg",
+            image: "/images/f1predictions.png",
             description: "A data-driven Formula 1 analytics project predicting race outcomes and driver performance using historical racing data and machine learning models. Built as a passion project combining motorsport enthusiasm with predictive analytics."
         },
         {
