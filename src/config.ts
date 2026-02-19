@@ -41,7 +41,20 @@ export const config = {
                 "Working with LLMs and transformer architectures",
                 "Creating autonomous AI systems and automation tools"
             ],
-            technologies: ["Python", "TensorFlow", "PyTorch", "LLMs", "NLP", "AI Agents"]
+            technologies: ["Python", "TensorFlow", "Tensorflow", "CV", "LLMs", "NLP", "AI Agents"]
+        },
+        {
+            position: "Data Scientist",
+            company: "Freelance",
+            period: "2025 - present",
+            location: "Pakistan",
+            description: "Started my journey as a Data Scientist, creating Dashboards and visualizing data to get the insights and help businesses make better decisions. This sparked my passion for technology and data analysis.",
+            responsibilities: [
+                "Creating Dashboards and visualizing data to get the insights and help businesses make better decisions",
+                "Working with clients on projects",
+                "Learning the best principles and tools for the problems"
+            ],
+            technologies: ["PowerBi", "Python", "Jupyter Notebook", "Tensorflow", "Tableau"]
         },
         {
             position: "Full-Stack Developer",
@@ -59,9 +72,9 @@ export const config = {
         },
         {
             position: "Python Developer",
-            company: "Self-Taught & Projects",
+            company: "Computer Science Student",
             period: "2023",
-            location: "Bangladesh",
+            location: "Pakistan",
             description: "Dove deep into Python programming, building automation scripts, bots, and mastering the fundamentals of software development and problem-solving.",
             responsibilities: [
                 "Learning Python programming and core concepts",
@@ -69,24 +82,11 @@ export const config = {
                 "Exploring data structures and algorithms",
                 "Participating in competitive programming"
             ],
-            technologies: ["Python", "Automation", "Scripting", "Discord.py", "Problem Solving"]
-        },
-        {
-            position: "Data Scientist",
-            company: "Freelance",
-            period: "2025 - present",
-            location: "Pakistan",
-            description: "Started my journey as a Data Scientist, creating Dashboards and visualizing data to get the insights and help businesses make better decisions. This sparked my passion for technology and data analysis.",
-            responsibilities: [
-                "Creating Dashboards and visualizing data to get the insights and help businesses make better decisions",
-                "Working with clients on projects",
-                "Learning the best principles and tools for the problems"
-            ],
-            technologies: ["Photoshop", "Illustrator", "Canva", "Figma", "Visual Design"]
+            technologies: ["Python", "Automation", "Scripting", "Flask", "Django", "FastAPI"]
         },
         {
             position: "Microsoft Office",
-            company: "Begin Learning",
+            company: "Begin Learning, Started bachelors",
             period: "2021",
             location: "Pakistan",
             description: "Started my journey into the digital world by learning Microsoft Office tools. This foundational step introduced me to computers and sparked my curiosity for technology.",
