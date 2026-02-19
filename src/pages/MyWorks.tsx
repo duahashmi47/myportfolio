@@ -20,7 +20,14 @@ const MyWorks = () => {
           <div className="myworks-card" key={project.id} data-cursor="disable">
             <div className="myworks-card-number">0{index + 1}</div>
             <div className="myworks-card-image">
-              <img src={project.image} alt={project.title} />
+              {project.video ? (
+                <video width="100%" controls>
+                  <source src={project.video} type="video/mp4" />
+                  Your browser does not support the video tag.
+                </video>
+              ) : (
+                <img src={project.image} alt={project.title} />
+              )}
             </div>
             <div className="myworks-card-info">
               <h3>{project.title}</h3>

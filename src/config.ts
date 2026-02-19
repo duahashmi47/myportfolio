@@ -1,7 +1,7 @@
 export const config = {
     developer: {
         name: "Dua Noor",
-        fullName: "Dua Noor Hashmi",
+        fullName: "Dua Noor",
         title: "AI & Full-Stack Developer",
         description: "AI & Full-Stack Developer building intelligent systems and modern web applications. Passionate about machine learning, deep learning, and creating next-gen autonomous agents."
     },
@@ -106,6 +106,7 @@ export const config = {
             category: "AI / Computer Vision",
             technologies: "Python, TensorFlow, Keras, MTCNN, SAM, Angular, Node.js, MongoDB",
             image: "/images/skinalyze.png",
+            video: "/video/skinalyze.mp4",
             description: "An AI-powered skincare analysis platform that detects skin type and skin issues from facial images using deep learning. Integrates face detection, segmentation, and machine learning models to provide personalized skincare recommendations, product suggestions, and progress tracking."
         },
         {
@@ -153,7 +154,7 @@ export const config = {
             title: "Skinalyze AI Chatbot",
             category: "AI / LLM",
             technologies: "Python, Mistral (Ollama), Sentence-Transformers, RAG, Angular",
-            image: "/images/skinalyze-chatbot.png",
+            image: "/images/skinalyze .png",
             description: "A domain-specific skincare chatbot powered by a Retrieval-Augmented Generation architecture. Uses embeddings and conversational memory to provide dermatologist-like responses trained on skincare datasets and FAQs."
         },
         {
