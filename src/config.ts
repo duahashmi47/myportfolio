@@ -2,7 +2,7 @@ export const config = {
     developer: {
         name: "Dua Noor",
         fullName: "Dua Noor",
-        title: "AI & Full-Stack Developer",
+        title: "AI & Full-Stack Java Developer",
         description: "AI & Full-Stack Developer building intelligent systems and modern web applications. Passionate about machine learning, deep learning, and creating next-gen autonomous agents."
     },
     social: {
@@ -12,22 +12,22 @@ export const config = {
     },
     about: {
         title: "About Me",
-        description: "I am a Computer Science graduate and AI & Full-Stack Developer from Pakistan. I build intelligent systems, machine learning, and modern web applications. My expertise includes Machine Learning, Deep Learning, NLP, and Full-Stack Web Development with React, Node.js, and Python. Currently building next-gen AI Agents and incorporating AI into real world systems. I have a competitive programming mindset and a deep passion for building AI integrated systems. Code is the colour and AI is the canvas."
+        description: "I am a Computer Science graduate and AI & Full-Stack Java Developer from Pakistan. I build intelligent systems, machine learning, and modern web applications. My expertise includes Machine Learning, Deep Learning, NLP, and Full-Stack Web Development with React, Node.js, and Python. Currently building next-gen AI Agents and incorporating AI into real world systems. I have a competitive programming mindset and a deep passion for building AI integrated systems. Code is the colour and AI is the canvas."
     },
     experiences: [
         {
-            position: "Learning Something New",
-            company: "Self-Development",
-            period: "2025 - Present",
+            position: "Research Associate Java Developer",
+            company: "Abacus Consulting Private Limited",
+            period: "April 2026 - Present",
             location: "Pakistan",
-            description: "Continuously exploring emerging technologies, researching advanced AI systems, and pushing the boundaries of what's possible in tech.",
+            description: "Continuously providing support for Vodacom DRC as a Java Developer, researching emerging technologies in fintech, and pushing the boundaries of what's possible in tech.",
             responsibilities: [
-                "Researching cutting-edge AI and ML technologies",
-                "Experimenting with new frameworks and tools",
-                "Contributing to open-source projects",
-                "Building innovative personal projects"
+                "Developing and monitoring Microservices in SpringBoot with Postgres as database",
+                "Providing support on production issues",
+                "Working in close contact with clients",
+                "Building innovative solutions for CR"
             ],
-            technologies: ["Research", "Innovation", "Open Source", "New Tech"]
+            technologies: ["SpringBoot", "Postgres", "Kafka", "Apigee"]
         },
         {
             position: "AI Engineer",
@@ -185,7 +185,7 @@ export const config = {
             title: "FULL-STACK",
             description: "Modern web development & scalable applications",
             details: "Building responsive and performant web applications using React, Next.js, Node.js, and databases. Creating seamless user experiences with modern UI/UX principles.",
-            tools: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "TailwindCSS", "REST APIs", "Docker", "Git"]
+            tools: ["Java","SpringBoot","Kubernetes","Kafka","React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "TailwindCSS", "REST APIs", "Docker", "Git"]
         }
     }
 };
